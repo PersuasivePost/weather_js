@@ -1,4 +1,4 @@
-<a herf="https://persuasivepost.github.io/weather_js/">Click here </a>
+<a href="https://persuasivepost.github.io/weather_js/">Click here </a>
 
 This project is a Weather API application developed using JavaScript and styled with CSS. 
 It provides real-time weather information by making API calls to a weather service. 
